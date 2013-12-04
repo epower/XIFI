@@ -1,0 +1,10 @@
+{
+  "name": "XIFI_portal",
+  "version": "0.0.1",
+  "description": "XIFI Portal",
+  "author": "dne <daniel.nehls@tu-berlin.de>",
+  "dependencies": {
+    "express": "3.x",
+    "ejs": "x";
+  }
+}
